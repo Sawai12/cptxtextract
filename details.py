@@ -1,9 +1,9 @@
 import os
 
-api_id = 22779671
-api_hash = "125d8d88b77309dc3b154cbbfc2dacb2"
-bot_token = "6847175705:AAHbkU8GFmzoxR9dCQTr6RuZ4NQsev5ufz0"
-auth_users = [1713924419]
-sudo_user = 1713924419
-log_channel = -1002143629860
+api_id = 27412454
+api_hash = "9a657988cb949b70a313e0c84f14207e"
+bot_token = "6863721144:AAHdyJPs7XyhS3WSzKx5XX0VZiOJ4WjDy0k"
+auth_users = [6319179448]
+sudo_user = 6319179448
+log_channel = -1004127970508
 txt_channel = -1002049391187
